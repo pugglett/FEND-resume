@@ -69,3 +69,6 @@ var education = {
 		}
 	]
 }
+
+// Displaying page content
+
